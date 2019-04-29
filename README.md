@@ -33,7 +33,44 @@
   <li>舆情简报</li>
   <li>我的舆情(我的关注|预警舆情)</li>
 </ul>
-
-
+<br/>
+系统支持WEB、H5方式浏览，使用webview方式可以发布成小程序。<br/><br/>
+本软件为单机版舆情系统，不支持分布式部署。支持window和linux系统。建议部署服务器配置如下：<br/>
+<table>
+  <tr>
+    <td>主要参数</td>
+    <td>最低配置</td>
+    <td>推荐配置</td>
+  </tr>
+    <tr>
+    <td>CPU</td>
+    <td>P4 2.0</td>
+    <td>双核2.2以上</td>
+  </tr>
+    <tr>
+    <td>内存</td>
+    <td>4G</td>
+    <td>8G</td>
+  </tr>
+    <tr>
+    <td>硬盘</td>
+    <td>500G</td>
+    <td>1T</td>
+  </tr>
+   <tr>
+    <td>带宽</td>
+    <td>共享100M或独享4M</td>
+    <td>不限</td>
+  </tr>
+  </table>
+  <br/><br/>
+  代码有一定复杂度，建议购买的朋友有一定的编程能力，需要演示请联系：<br/>
+  QQ:1602752282<br/>
+  eMail:marketing@netterfly.com<br/>
+  Tel:13405884859
+  <br/>
+  <br/>
+  
+如果您对使用有更高要求，比如需要分布式采集、多账号访问、存储数据量更大(千万级以上)，建议考虑<a href="http://www.yuqing008.com" target="_blank">舆情008</a>系统。
 
 
