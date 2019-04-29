@@ -35,7 +35,7 @@
 </ul>
 <br/>
 系统支持WEB、H5方式浏览，使用webview方式可以发布成小程序。<br/><br/>
-本软件为单机版舆情系统，不支持分布式部署。支持window和linux系统。建议部署服务器配置如下：<br/>
+<font color="red">本软件为单机版舆情系统，不支持分布式部署。</font>支持window和linux系统。建议部署服务器配置如下：<br/><br/>
 <table>
   <tr>
     <td>主要参数</td>
@@ -64,7 +64,7 @@
   </tr>
   </table>
   <br/><br/>
-  代码有一定复杂度，建议购买的朋友有一定的编程能力，需要演示请联系：<br/>
+  <font color="red">代码有一定复杂度，建议购买的朋友有一定的编程能力</font>，需要演示请联系：<br/><br/>
   QQ:1602752282<br/>
   eMail:marketing@netterfly.com<br/>
   Tel:13405884859
